@@ -1,0 +1,4 @@
+Filesystem     1024-blocks      Used Available Capacity Mounted on
+/dev/root         40593412  12118552  26458476      32% /
+/dev/sdb1        103081248  96152040   1719224      92% /data
+/dev/sdc1         20511356  19485788    0         100% /var/log
