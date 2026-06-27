@@ -1,0 +1,5 @@
+root:x:0:
+sudo:x:27:alice
+payments:x:1001:alice,bob,carol
+web:x:1002:dave
+empty:x:1003:
